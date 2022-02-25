@@ -3,7 +3,6 @@ SQL Views
 USE [AdventureWorksDW2019]
 GO
 
-/****** Object:  View [BI].[vFact_ResellerSales]    Script Date: 2/25/2022 8:47:20 AM ******/
 SET ANSI_NULLS ON
 GO
 
